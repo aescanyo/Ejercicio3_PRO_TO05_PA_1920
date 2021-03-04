@@ -11,4 +11,6 @@ package Ejercicio3_pro_to05_pa_1920;
  */
 public class Patinete {
     
+    //atributos
+    
 }
